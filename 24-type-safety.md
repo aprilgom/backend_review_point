@@ -6,21 +6,21 @@
 
 ## 이 분야의 FC
 
-- [FC0464 · ID 타입으로 Long 대신 long을 선택한 이유와 null 허용 조건을 확인했다.](fc/FC0464.md)
+- [FC0464 · 식별자의 발급 전후 상태](fc/FC0464.md)
 
-- [FC0456 · basePackage의 타입을 Object 대신 String으로 제한하여 타입 오류를 컴파일 시점에 확인하는 방안에 대한 의견을 물었다.](fc/FC0456.md)
+- [FC0456 · 인자 타입의 최소 범위](fc/FC0456.md)
 
-- [FC0459 · 삭제 요청의 값은 null로 들어오지 않을 것으로 보이므로 nullable 타입의 필요성을 재검토하는 의견이다.](fc/FC0459.md)
+- [FC0459 · 필수 인자의 nullable 여부](fc/FC0459.md)
 
-- [FC0458 · CouponType의 할인액은 int인데 CouponTypeEntity에서는 Integer로 설정한 이유를 질문했다.](fc/FC0458.md)
+- [FC0458 · 도메인과 저장 모델의 null 의미](fc/FC0458.md)
 
-- [FC0465 · TxExecutor에 @FunctionalInterface 어노테이션을 붙이자고 제안했다.](fc/FC0465.md)
+- [FC0465 · 함수형 계약의 명시](fc/FC0465.md)
 
-- [FC0455 · 배열을 스트림으로 변환할 때 Stream.of와 Arrays.stream 중 무엇을 선택할지, 입력 타입 변경을 감지할 수 있는지를 고려해 논의한다.](fc/FC0455.md)
+- [FC0455 · 배열 스트림 API의 요소 의미](fc/FC0455.md)
 
-- [FC0457 · DTO와 PathVariable에서 기본형 타입을 사용하는 이유를 질문했다.](fc/FC0457.md)
+- [FC0457 · 필수 입력과 primitive 기본값](fc/FC0457.md)
 
-- [FC0462 · 포트 번호가 정수만 허용한다면 run이 문자열을 받아 변환하기보다 정수 타입으로 받는 방안을 제안했다.](fc/FC0462.md)
+- [FC0462 · 파싱 경계와 내부 인자 타입](fc/FC0462.md)
 
 
 ---

@@ -6,13 +6,13 @@
 
 ## 이 분야의 FC
 
-- [FC0450 · @Transactional의 동작과 다른 서비스 메서드에도 트랜잭션을 적용할 필요가 있는지 검토해 달라는 질문이다.](fc/FC0450.md)
+- [FC0450 · 업무 단위의 트랜잭션 경계](fc/FC0450.md)
 
-- [FC0453 · 읽기 DB 조회 실패 후 쓰기 DB를 조회하는 경로에서 의도한 트랜잭션이 동작하는지와 그 원인을 확인해 달라고 요청했다.](fc/FC0453.md)
+- [FC0453 · 조회 실패 후 대체 경로의 트랜잭션](fc/FC0453.md)
 
-- [FC0451 · DataSourceUtils.releaseConnection에서 connection.getAutoCommit()이 true일 때만 커넥션을 닫도록 한 이유를 질문했다.](fc/FC0451.md)
+- [FC0451 · 커넥션 소유권과 해제 계약](fc/FC0451.md)
 
-- [FC0452 · try-with-resources 밖에서 생성한 ResultSet을 수동으로 닫아야 하는지 확인을 요청했다.](fc/FC0452.md)
+- [FC0452 · JDBC 자원의 해제 범위](fc/FC0452.md)
 
 
 ---
